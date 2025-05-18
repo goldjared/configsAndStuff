@@ -1,0 +1,25 @@
+{
+    "editor.fontSize": 20,
+    "editor.tabSize": 2,
+    "editor.lineNumbers": "relative",
+    // scroll off
+    "editor.cursorSurroundingLines": 8,
+    "editor.cursorSurroundingLinesStyle": "all",
+    "files.autoSave": "onFocusChange",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "git.openRepositoryInParentFolders": "never",
+    "workbench.preferredDarkColorTheme": "Default High Contrast",
+    "explorer.confirmDelete": false,
+    "keyboard.dispatch": "keyCode",
+    "vim.useSystemClipboard": true,
+    "window.autoDetectHighContrast": false,
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
+    "editor.codeActionsOnSave": {
+      
+    },
+    "settingsSync.ignoredExtensions": [
+      
+    ],
+  }

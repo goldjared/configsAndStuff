@@ -1,0 +1,77 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="Console.TableResult.DeleteRows" />
+  <action id="Diff.ShowDiff" />
+  <action id="Documentation.Back">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="Documentation.Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
+  <action id="EditorDeleteLine" />
+  <action id="EditorDuplicate" />
+  <action id="EditorMoveToPageBottom" />
+  <action id="EditorMoveToPageTop" />
+  <action id="EditorSelectWord" />
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="ExportToTextFile" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="Generate.Missing.Members.ES6" />
+  <action id="Generate.Missing.Members.TypeScript" />
+  <action id="GotoDeclarationOnly">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="GuiDesigner.Duplicate" />
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="shift escape" />
+    <keyboard-shortcut first-keystroke="alt back_quote" />
+  </action>
+  <action id="ImplementMethods" />
+  <action id="MethodHierarchy.ImplementMethodAction" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
+  <action id="OverrideMethods" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
+  </action>
+  <action id="RecentFiles" />
+  <action id="RecentLocations" />
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SendEOF" />
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="ctrl f1" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="SmartSelect" />
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="TableResult.GrowSelection" />
+  <action id="UsageFiltering.Imports" />
+  <action id="UsageFiltering.WriteAccess" />
+  <action id="Vcs.QuickListPopupAction" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction" />
+</keymap>
